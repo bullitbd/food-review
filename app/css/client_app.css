@@ -1,0 +1,47 @@
+/* ======= PAGE & CONTROL STYLING ======== */
+
+/* body {
+  background-color: #444;
+  margin: 0 auto;
+}
+
+.container {
+  background-color:#555;
+  width: 1100px !important;
+  margin: 0 auto;
+  margin-top:25px;
+}
+
+.inner {
+  display:none;
+  margin: 0px auto;
+  width: 95%;
+  background-color:#fdfdfd;
+  padding: 30px 0;
+
+} */
+
+.sample {
+  color:red;
+  height:300px;
+
+}
+
+.logo-div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+}
+
+.default-text {
+  color: #333;
+}
+
+.none-left {
+  padding-left: 0;
+  margin-left: 0;
+}

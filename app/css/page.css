@@ -1,0 +1,42 @@
+
+/* ======= PAGE & CONTROL STYLING ======== */
+
+body {
+  background-color: #444;
+  margin: 0 auto;
+}
+
+.container {
+  background-color:#555;
+  width: 1100px !important;
+  margin: 0 auto;
+  margin-top:25px;
+}
+
+.inner {
+  display:none;
+  margin: 0px auto;
+  width: 95%;
+  background-color:#fdfdfd;
+  padding: 30px 0;
+  /* background-image: url(https://s3.amazonaws.com/images.rialtollc/QqPuDkRA-HIN-black_72dpi.png); */
+  /* background-repeat: no-repeat;
+  background-position: 80% 45%;
+  background-size: 250px auto; */
+}
+
+
+/* spinner */
+
+.waiting-to-load {
+  background-image: url('hinton_load.png');
+  position: fixed;
+  top: 325px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: -1;
+  height: 144px;
+  width: 144px;
+}

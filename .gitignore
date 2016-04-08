@@ -1,0 +1,10 @@
+**/node_modules/
+**/db/
+**/*.log
+.DS_Store
+.env
+**/docs/
+**/build/
+test/**/*bundle.js
+bob*
+/app/test.html

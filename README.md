@@ -62,9 +62,13 @@ Response:
   },
 }]
 ```
-#### Creator/Project Lead:
+#### Creator:
 
 * Gina Hinton
+
+#### Product Manager:
+
+* Bob Day
 
 #### Developers:
 
